@@ -1,0 +1,6 @@
+/**/*.csv
+/**/*.geojson
+/**/*.ods
+/**/*.xlsx
+!geocoded.csv
+!addresses.csv
